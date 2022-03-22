@@ -1,6 +1,5 @@
 let json;
 
-
 async function petition(){
     await fetch('/v/segells', {
         method: 'get',
