@@ -1,0 +1,12 @@
+{ "segells": [
+	{"id": 1, "desc": "Sagrada Família", "year": 1980, "comunitat": "Catalunya", "tematica": ["arquitectura", "Barcelona", "monument", "església"]},
+	{"id": 2, "desc": "La Cibeles", "year": 1968, "comunitat": "Madrid", "tematica": ["Madrid", "monument"]},
+	{"id": 3, "desc": "La Giralda", "year": 1975, "comunitat": "Andalusia", "tematica": ["Sevilla", "arquitectura", "església"]},
+	{"id": 4, "desc": "Catedral de Santiago", "year": 1998, "comunitat": "Galícia", "tematica": ["Santiago de Compostela", "arquitectura", "esglesia"]},
+	{"id": 5, "desc": "Castell de Bellver", "year": 2000, "comunitat": "Illes Balears", "tematica": ["Palma de Mallorca", "monument"]},
+	{"id": 6, "desc": "La Almudena", "year": 1956, "comunitat": "Madrid", "tematica": ["Madrid", "arquitectura", "esglesia"]},
+	{"id": 7, "desc": "Museu Dalí", "year": 1986, "comunitat": "Catalunya", "tematica": ["Figueres", "arquitectura"]},
+	{"id": 8, "desc": "Mezquita de Córdoba", "year": 1966, "comunitat": "Andalusia", "tematica": ["Sevilla", "arquitectura", "església", "monument"]},
+	{"id": 9, "desc": "La Seu de Lleida", "year": 1980, "comunitat": "Catalunya", "tematica": ["Lleida", "arquitectura", "església"]},
+	{"id": 10, "desc": "Museu Guggenheim", "year": 2005, "comunitat": "País Basc", "tematica": ["Bilbao", "arquitectura"]}
+]}
